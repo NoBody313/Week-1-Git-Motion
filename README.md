@@ -2,3 +2,6 @@
 ini hands-on git
 
 ## Ubah dikit min
+ini deskripsi singkat
+
+ini text lagi
